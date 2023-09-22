@@ -1,5 +1,5 @@
 [CENTER]
-[IMG]https://raw.githubusercontent.com/Mrick343/Droidx_XDA/main/photo_2023-08-22_16-27-53.jpg[/IMG]
+[IMG]https://raw.githubusercontent.com/Mrick343/Droidx_XDA/main/Banner%201.5.3.png[/IMG]
 
 [SIZE=7][B][COLOR=#048a16]DROIDX-UI for OnePlus 9RT [martini][/COLOR][/B][/SIZE]
 

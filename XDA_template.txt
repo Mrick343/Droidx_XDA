@@ -38,8 +38,8 @@ Sound/vibration[/SIZE]
  - Fixed OOS Slo-mo crash
  - Other minor Improvements[/SIZE]
 
-[SIZE=6][B][COLOR=#048a16]ROM Changelogs[/COLOR][/B][/SIZE]
-[SIZE=3][URL='https://github.com/DroidX-UI/Release_changelogs/blob/fe18e5ea24b5e0e2ca2abc4919d1d5836faca673/DroidX-Changelogs.mk'][B][COLOR=#048a16][U]Click Here To See[/U][/COLOR][/B][/URL][/SIZE]
+[SIZE=5][B][COLOR=#048a16]Changelogs[/COLOR][/B][/SIZE]
+[SIZE=3][URL='https://github.com/DroidX-UI/Release_changelogs/blob/13/DroidX-Changelogs.mk'][B][COLOR=#048a16][U]Source[/U][/COLOR][/B][/URL][/SIZE] | [SIZE=3][URL='https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/martini.md'][B][COLOR=#048a16][U]Device[/U][/COLOR][/B][/URL][/SIZE]
 
 [B][COLOR=rgb(250, 197, 28)]Please note that OOS13.1 EX01 firmware is included in these builds[/COLOR][/B]
 

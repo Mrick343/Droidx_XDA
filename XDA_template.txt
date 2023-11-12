@@ -7,9 +7,7 @@
 [SIZE=4]
 DroidX-UI is a Custom ROM Project based on AOSP with touch of some customizations and some cool stuffs in order to maintain stability and also to provide best out of the box
 
-
 Based on Android 13[/SIZE]
-
 
 [SIZE=5][B][COLOR=#048a16]Whats working?[/COLOR][/B][/SIZE]
 [SIZE=4]Wi-Fi
@@ -31,45 +29,20 @@ Sound/vibration[/SIZE]
 [SIZE=4]You Tell Me[/SIZE]
 
 [SIZE=5][B][COLOR=#048a16]Changelogs[/COLOR][/B][/SIZE]
-[SIZE=4] - Initial Official build
- - August Security patch merged
- - Added Livedisplay back
- - updated Adreno to V@600
- - Fixed OOS Slo-mo crash
- - Other minor Improvements[/SIZE]
-
-[SIZE=5][B][COLOR=#048a16]Changelogs[/COLOR][/B][/SIZE]
 [SIZE=3][URL='https://github.com/DroidX-UI/Release_changelogs/blob/13/DroidX-Changelogs.mk'][B][COLOR=#048a16][U]Source[/U][/COLOR][/B][/URL][/SIZE] | [SIZE=3][URL='https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/changelogs/martini.md'][B][COLOR=#048a16][U]Device[/U][/COLOR][/B][/URL][/SIZE]
 
-[B][COLOR=rgb(250, 197, 28)]Please note that OOS13.1 EX01 firmware is included in these builds[/COLOR][/B]
 
-[COLOR=#048a16][SIZE=5][B]First Time Install / Clean Flash from OOS/Other Custom ROM[/B][/SIZE][/COLOR]
-
-1. Be on OOS13 and have an unlocked bootloader
-2. Download dtbo, vendor_boot, boot & rom for your device from [URL='https://sourceforge.net/projects/droidxui-releases/files/martini/recovery/'][COLOR=#048a16]here[/COLOR][/URL]
-3. Reboot to bootloader
-4. fastboot flash dtbo dtbo.img
-fastboot flash vendor_boot vendor_boot.img
-fastboot flash boot boot.img
-fastboot reboot recovery
-5. While in recovery navigate to Factory reset -> Format data/factory reset and confim to format the device.
-6. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
-7. adb sideload rom.zip (replace "rom" with actual filename)
-8 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
-9. Reboot to system & Enjoy
-
-[SIZE=5][B][COLOR=#048a16]Update[/COLOR][/B][/SIZE]
-1. Reboot to recovery
-2. While in recovery, navigate to Apply update -> Apply from ADB[SIZE=5][COLOR=#048a16][/COLOR][/SIZE]
-3. adb sideload rom.zip (replace "rom" with  actual filename)
-4. Reboot to system & Enjoy
+[SIZE=5][URL='https://github.com/DroidX-UI-Devices/Official_Devices/blob/13/Installation/martini.md'][B][COLOR=#048a16][U]INSTRUCTIONS[/U][/COLOR][/B][/URL][/SIZE]
 
 
 [SIZE=6][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE=7][URL='https://sourceforge.net/projects/droidxui-releases/files/martini/droidx-1.5.1-20230812-OFFICIAL-martini-Gapps.zip'][B][COLOR=#048a16][U]Download from Sourceforge[/U][/COLOR][/B][/URL][/SIZE]
+
+[SIZE=7][B][COLOR=#048a16]Download[/COLOR][/B][/SIZE]
+[SIZE=4][URL='https://sourceforge.net/projects/droidxui-releases/files/martini/droidx-1.6-20231111-1309-OFFICIAL-martini-Gapps.zip/download'][B][COLOR=#048a16][U]ROM[/U][/COLOR][/B][/URL][/SIZE] | [SIZE=4][URL='https://sourceforge.net/projects/droidxui-releases/files/martini/recovery/'][B][COLOR=#048a16][U]Recovery[/U][/COLOR][/B][/URL][/SIZE]
 
 [SIZE=6][B][COLOR=#048a16]Donate[/COLOR][/B][/SIZE]
 [SIZE=5][URL='https://linktr.ee/mrick343'][B][COLOR=#048a16][U]Liked my work? Give me a beer[/U][/COLOR][/B][/URL][/SIZE]
+
 
 [SIZE=6][B][COLOR=#048a16]Stay tuned[/COLOR][/B][/SIZE]
 [SIZE=5][URL='https://t.me/DroidXUI_chats'][B][COLOR=#048a16][U]Official Telegram Community[/U][/COLOR][/B][/URL]
@@ -79,9 +52,9 @@ fastboot reboot recovery
 
 [LIST]
 [*][B]Android OS version:[/B] 13
-[*][B]Security patch level:[/B] August 2023 (android-13.0.0_r67)
-[*][B]Build author/Device Maintainer:[/B] [URL='https://forum.xda-developers.com/m/mrick343.12517809/L'][COLOR=#048a16]Mrick343[/COLOR][/URL]
+[*][B]Security patch level:[/B] October 2023 (android-13.0.0_r75)
+[*][B]Build author/Device Maintainer:[/B] [URL='https://xdaforums.com/m/mrick343.12517809/L'][COLOR=#048a16]Mrick343[/COLOR][/URL]
 [*][B]Device Source code:[/B] [URL='https://github.com/DroidX-UI-Devices'][COLOR=#048a16]DROIDX-UI-DEVICES[/COLOR][/URL]
-[*][B]Kernel Source code:[/B] [URL='https://github.com/DroidX-UI-Devices'][COLOR=#048a16]DROIDX-UI-DEVICES[/COLOR][/URL]
+[*][B]Kernel Source code:[/B] [URL='https://github.com/DroidX-UI-Devices/android_kernel_oneplus_sm8350.git'][COLOR=#048a16]DROIDX-UI-DEVICES[/COLOR][/URL]
 [*][B]Source code:[/B] [URL='https://github.com/DroidX-UI'][COLOR=#048a16]DROIDX-UI[/COLOR][/URL]
 [/LIST]
